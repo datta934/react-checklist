@@ -32,23 +32,23 @@
 
 -   [x] What is React?
 -   [x] Virtual DOM
--   [ ] Reconciliation
--   [ ] Fiber Architecture
--   [ ] JSX
--   [ ] Functional Components
--   [ ] Pure Components
--   [ ] Props
--   [ ] Component Composition
--   [ ] Rendering
--   [ ] Conditional Rendering
--   [ ] Lists & Keys
--   [ ] Fragments
--   [ ] Portals
--   [ ] Strict Mode
--   [ ] Refs
+-   [x] Reconciliation
+-   [x] Fiber Architecture
+-   [x] JSX
+-   [x] Functional Components
+-   [x] Pure Components
+-   [x] Props
+-   [x] Component Composition
+-   [x] Rendering
+-   [x] Conditional Rendering
+-   [x] Lists & Keys
+-   [x] Fragments
+-   [x] Portals
+-   [x] Strict Mode
+-   [x] Refs
 -   [ ] Forward Ref
--   [ ] Controlled Components
--   [ ] Uncontrolled Components
+-   [x] Controlled Components
+-   [x] Uncontrolled Components
 -   [ ] Forms
 
 ## Level 2 --- Hooks
