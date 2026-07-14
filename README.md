@@ -1,6 +1,6 @@
 # React Mastery Checklist
 
-## Level 0 --- JavaScript
+## Level 0 --- [JavaScript](00-js-fundamentals)
 
 -   [ ] Variables
 -   [ ] Scope & Closures
