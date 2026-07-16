@@ -53,22 +53,22 @@
 
 ## Level 2 --- [Hooks](02-hooks.md) 
 
--   [ ] useState
--   [ ] useEffect
--   [ ] useRef
--   [ ] useMemo
--   [ ] useCallback
--   [ ] useContext
--   [ ] useReducer
--   [ ] useLayoutEffect
--   [ ] useImperativeHandle
--   [ ] useId
--   [ ] useTransition
--   [ ] useDeferredValue
--   [ ] useSyncExternalStore
--   [ ] useInsertionEffect
--   [ ] Custom Hooks
--   [ ] Rules of Hooks
+-   [x] useState
+-   [x] useEffect
+-   [x] useRef
+-   [x] useMemo
+-   [x] useCallback
+-   [x] useContext
+-   [x] useReducer
+-   [x] useLayoutEffect
+-   [x] useImperativeHandle
+-   [x] useId
+-   [x] useTransition
+-   [x] useDeferredValue
+-   [x] useSyncExternalStore
+-   [x] useInsertionEffect
+-   [x] Custom Hooks
+-   [x] Rules of Hooks
 
 ## Level 3 --- State Management
 
