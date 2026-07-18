@@ -73,16 +73,16 @@
 # ⭐ LEVEL 3 — React Rendering & Internals
 
 ## Rendering Pipeline
-- [ ] What happens after setState()
-- [ ] Update Queue
-- [ ] Scheduler
-- [ ] Fiber Architecture
-- [ ] Fiber Nodes
-- [ ] Render Phase
-- [ ] Commit Phase
-- [ ] Browser Paint
-- [ ] useEffect Timing
-- [ ] useLayoutEffect
+- [x] What happens after setState()
+- [x] Update Queue
+- [x] Scheduler
+- [x] Fiber Architecture
+- [x] Fiber Nodes - Work loop - Alternate Fiber Tree
+- [x] Render Phase
+- [x] Commit Phase
+- [x] Browser Paint
+- [x] useEffect Timing
+- [x] useLayoutEffect
 
 ## Rendering Behaviour
 - [ ] Why Components Re-render
