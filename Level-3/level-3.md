@@ -138,15 +138,15 @@
 
 ## 3.10 Rendering Optimization
 
-- [ ] Component Splitting
-- [ ] State Placement
-- [ ] Composition
-- [ ] Children as JSX
-- [ ] List Optimization
-- [ ] Windowing / Virtualization
-- [ ] Lazy Components
-- [ ] Code Splitting
-- [ ] Dynamic Imports
+- [x] Component Splitting
+- [x] State Placement
+- [x] Composition
+- [x] Children as JSX
+- [x] List Optimization
+- [x] Windowing / Virtualization
+- [x] Lazy Components
+- [x] Code Splitting
+- [x] Dynamic Imports
 
 ---
 
@@ -154,46 +154,46 @@
 
 ## 3.11 Automatic Batching
 
-- [ ] Automatic Batching
-- [ ] React 18 Changes
-- [ ] flushSync
+- [x] Automatic Batching
+- [x] React 18 Changes
+- [x] flushSync
 
 ---
 
 ## 3.12 Concurrent Rendering
 
-- [ ] Concurrent Rendering
-- [ ] Interruptible Rendering
-- [ ] Lanes
-- [ ] Scheduler Priorities
+- [x] Concurrent Rendering
+- [x] Interruptible Rendering
+- [x] Lanes
+- [x] Scheduler Priorities
 
 ---
 
 ## 3.13 Suspense
 
-- [ ] Suspense
-- [ ] Fallback UI
-- [ ] React.lazy
-- [ ] Suspense Boundaries
-- [ ] Suspense for Data Fetching
+- [x] Suspense
+- [x] Fallback UI
+- [x] React.lazy
+- [x] Suspense Boundaries
+- [x] Suspense for Data Fetching
 
 ---
 
 ## 3.14 useTransition
 
-- [ ] startTransition
-- [ ] Transition Updates
-- [ ] Pending State
-- [ ] Urgent vs Non-Urgent Updates
+- [x] startTransition
+- [x] Transition Updates
+- [x] Pending State
+- [x] Urgent vs Non-Urgent Updates
 
 ---
 
 ## 3.15 useDeferredValue
 
-- [ ] useDeferredValue
-- [ ] Deferred Rendering
-- [ ] Search Optimization
-- [ ] Expensive Lists
+- [x] useDeferredValue
+- [x] Deferred Rendering
+- [x] Search Optimization
+- [x] Expensive Lists
 
 ---
 
