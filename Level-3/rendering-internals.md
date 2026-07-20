@@ -1,39 +1,10 @@
+## 3.1 to 3.6
 <img width="1536" height="1024" alt="rendering-internals" src="https://github.com/user-attachments/assets/429a18f0-a0d8-42af-afb2-486caa0173b0" />
 
 <img width="1024" height="1536" alt="rendering-pipeline" src="https://github.com/user-attachments/assets/6907d3c8-00ae-417d-8099-4ad43bf732e7" />
 
 
-
-
-```text
-Parent renders
-        │
-        ▼
-Creates Props
-        │
-        ▼
-Objects? Arrays? Functions?
-        │
-        ▼
-New References
-        │
-        ▼
-React.memo
-        │
-        ▼
-Shallow Compare
-        │
-        ▼
-Same Reference?
-        │
-   ┌────┴────┐
-   │         │
-  YES       NO
-   │         │
-   ▼         ▼
-Skip Child  Render Child
-```
-
+## 3.7 React.memo 3.8 useMemo 3.9 useCallback
 
 | Situation | React.memo? | Why |
 |------------|:----------:|-----|
@@ -58,34 +29,8 @@ Skip Child  Render Child
 | Used around components            | Used inside components               |
 | Works well with stable references | Produces stable values/references    |
 
+<img width="1536" height="1024" alt="memo,usememo,callback" src="https://github.com/user-attachments/assets/3b91c279-8ac4-4eaa-aab2-05a2fc9cfb98" />
 
-
-```                Parent renders
-                       │
-         ┌─────────────┼─────────────┐
-         │                           │
-Need stable value?         Need stable function?
-         │                           │
-         ▼                           ▼
-     useMemo                  useCallback
-         │                           │
-         └─────────────┬─────────────┘
-                       │
-               Stable References
-                       │
-                       ▼
-                 React.memo
-                       │
-              Shallow Compare
-                       │
-                 Same Reference?
-                  /          \
-                Yes          No
-                 │            │
-          Skip Child     Render Child
-```
-
-![alt text](memo,usememo,callback.png)
 
 ---
 ## 3.10 Rendering Optimization
