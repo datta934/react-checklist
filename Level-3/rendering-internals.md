@@ -86,3 +86,19 @@ Need stable value?         Need stable function?
 ```
 
 ![alt text](memo,usememo,callback.png)
+
+---
+## 3.10 Rendering Optimization
+
+| Topic               | One-line Memory Trick                  |
+| ------------------- | -------------------------------------- |
+| Component Splitting | Split by responsibility                |
+| State Placement     | Keep state close to where it's used    |
+| Composition         | Build complex UIs from simple pieces   |
+| Children as JSX     | Let containers render flexible content |
+| List Optimization   | Stable keys + minimize work            |
+| Virtualization      | Render only what's visible             |
+| Lazy Components     | Load UI on demand                      |
+| Code Splitting      | Download only what's needed            |
+| Dynamic Imports     | Fetch code when required               |
+
