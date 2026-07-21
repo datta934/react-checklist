@@ -1,4 +1,4 @@
-# 🚀 Level 3 – React Internals & Rendering
+# 🚀 Level 3 – [React Internals & Rendering](rendering-internals.md)
 
 ---
 

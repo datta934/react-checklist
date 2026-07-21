@@ -1,5 +1,5 @@
 # 🚀 React Master Handbook
-## 🟢 Level 0 — JavaScript Foundations
+## Level 0 — JavaScript Foundations
 
 - [x] JS Execution Model
 - [x] Scope & Closures
@@ -11,7 +11,7 @@
 
 ---
 
-## 🟢 Level 1 — React Fundamentals
+## Level 1 — React Fundamentals
 
 - [x] Components
 - [x] JSX
@@ -26,7 +26,7 @@
 
 ---
 
-## 🟢 Level 2 — Hooks
+## Level 2 — Hooks
 
 - [x] Rules of Hooks
 - [x] useState
@@ -38,7 +38,7 @@
 - [x] Hook Patterns
 ---
 
-## 🟡 Level 3 — [React Internals & Rendering](Level-3/level-3.md)
+## Level 3 — [React Internals & Rendering](Level-3/level-3.md)
 
 - [x] Rendering Pipeline
 - [x] Fiber
@@ -46,17 +46,17 @@
 - [x] Alternate Fiber Tree
 - [x] Reconciliation
 - [x] Rendering Behaviour
-- [ ] React.memo Deep Dive
-- [ ] useMemo Internals
-- [ ] useCallback Internals
-- [ ] Rendering Optimization
-- [ ] Concurrent Rendering
-- [ ] Suspense
-- [ ] Performance Debugging
+- [x] React.memo Deep Dive
+- [x] useMemo Internals
+- [x] useCallback Internals
+- [x] Rendering Optimization
+- [x] Concurrent Rendering
+- [x] Suspense
+- [x] Performance Debugging
 
 ---
 
-## ⚪ Level 4 — State Management
+## Level 4 — [State Management](Level-4/level-4.md)
 
 - [ ] Local State
 - [ ] Lift State Up
@@ -69,11 +69,9 @@
 - [ ] MobX Overview
 - [ ] Server State
 
-📄 Details → 05-Level-4-State-Management.md
-
 ---
 
-## ⚪ Level 5 — Data Fetching
+## Level 5 — Data Fetching
 
 - [ ] Fetch API
 - [ ] Axios
@@ -84,11 +82,10 @@
 - [ ] Infinite Queries
 - [ ] Pagination
 
-📄 Details → 06-Level-5-Data-Fetching.md
 
 ---
 
-## ⚪ Level 6 — Forms
+## Level 6 — Forms
 
 - [ ] Controlled Forms
 - [ ] Uncontrolled Forms
@@ -97,11 +94,9 @@
 - [ ] Validation
 - [ ] Dynamic Forms
 
-📄 Details → 07-Level-6-Forms.md
-
 ---
 
-## ⚪ Level 7 — Routing
+## Level 7 — Routing
 
 - [ ] React Router
 - [ ] Nested Routes
@@ -109,11 +104,9 @@
 - [ ] Lazy Routes
 - [ ] Navigation
 
-📄 Details → 08-Level-7-Routing.md
-
 ---
 
-## ⚪ Level 8 — Performance
+## Level 8 — Performance
 
 - [ ] Lazy Loading
 - [ ] Code Splitting
@@ -121,11 +114,10 @@
 - [ ] Bundle Analysis
 - [ ] Memoization Strategy
 
-📄 Details → 09-Level-8-Performance.md
 
 ---
 
-## ⚪ Level 9 — Testing
+## Level 9 — Testing
 
 - [ ] Jest
 - [ ] RTL
@@ -133,11 +125,10 @@
 - [ ] Integration Tests
 - [ ] E2E
 
-📄 Details → 10-Level-9-Testing.md
 
 ---
 
-## ⚪ Level 10 — Architecture
+## Level 10 — Architecture
 
 - [ ] Folder Structure
 - [ ] Feature Based Architecture
@@ -145,11 +136,10 @@
 - [ ] Clean Architecture
 - [ ] Micro Frontends
 
-📄 Details → 11-Level-10-Architecture.md
 
 ---
 
-## ⚪ Level 11 — Accessibility
+## Level 11 — Accessibility
 
 - [ ] Semantic HTML
 - [ ] ARIA
@@ -157,11 +147,9 @@
 - [ ] Screen Readers
 - [ ] WCAG
 
-📄 Details → 12-Level-11-Accessibility.md
-
 ---
 
-## ⚪ Level 12 — Design Patterns
+## Level 12 — Design Patterns
 
 - [ ] Compound Components
 - [ ] Render Props
@@ -170,11 +158,9 @@
 - [ ] Container/Presentational
 - [ ] Headless Components
 
-📄 Details → 13-Level-12-Patterns.md
-
 ---
 
-## ⚪ Level 13 — TypeScript
+## Level 13 — TypeScript
 
 - [ ] TS Basics
 - [ ] React + TS
@@ -182,11 +168,9 @@
 - [ ] Utility Types
 - [ ] Advanced Types
 
-📄 Details → 14-Level-13-TypeScript.md
-
 ---
 
-## ⚪ Level 14 — React Ecosystem
+## Level 14 — React Ecosystem
 
 - [ ] Vite
 - [ ] ESLint
@@ -195,11 +179,9 @@
 - [ ] Tailwind
 - [ ] Component Libraries
 
-📄 Details → 15-Level-14-Ecosystem.md
-
 ---
 
-## ⚪ Level 15 — SSR / RSC
+## Level 15 — SSR / RSC
 
 - [ ] SSR
 - [ ] SSG
@@ -208,16 +190,13 @@
 - [ ] React Server Components
 - [ ] Streaming
 
-📄 Details → 16-Level-15-SSR-RSC.md
 
 ---
 
-## ⚪ Level 16 — Interview Revision
+## Level 16 — Interview Revision
 
 - [ ] Frequently Asked Questions
 - [ ] React Internals Revision
 - [ ] Performance Revision
 - [ ] Architecture Revision
 - [ ] Mock Interviews
-
-📄 Details → 17-Level-16-Interview-Revision.md
