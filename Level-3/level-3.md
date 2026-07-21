@@ -1,7 +1,5 @@
 # 🚀 Level 3 – [React Internals & Rendering](rendering-internals.md)
 
----
-
 # Part A – Rendering Pipeline
 
 ## 3.1 Rendering Pipeline
