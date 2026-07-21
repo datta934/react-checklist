@@ -47,3 +47,12 @@
 | Code Splitting      | Download only what's needed            |
 | Dynamic Imports     | Fetch code when required               |
 
+## 3.11 Automatic Batching and 3.12 Concurrent Rendering
+<img width="1536" height="1024" alt="3 11and3 12" src="https://github.com/user-attachments/assets/3c11612d-5a33-47bf-9398-0796899bce5d" />
+
+## 3.12 - 3.15
+<img width="1536" height="1024" alt="partC-level3" src="https://github.com/user-attachments/assets/6637b188-480d-4202-b482-533271b4cacf" />
+
+## SUMMARY
+<img width="1536" height="1024" alt="Level 3 - Summary" src="https://github.com/user-attachments/assets/59866832-abcd-43bd-ad83-922409e51ff7" />
+
