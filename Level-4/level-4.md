@@ -26,24 +26,24 @@
 # 4.2 Context API
 
 ## Context Basics
-- [ ] Prop Drilling
-- [ ] createContext
-- [ ] Provider
-- [ ] useContext
+- [x] Prop Drilling
+- [x] createContext
+- [x] Provider
+- [x] useContext
 
 ## Context Internals
-- [ ] How Context Works
-- [ ] Context Update Propagation
-- [ ] Context Re-rendering
-- [ ] Splitting Context
-- [ ] Context Performance
+- [x] How Context Works
+- [x] Context Update Propagation
+- [x] Context Re-rendering
+- [x] Splitting Context
+- [x] Context Performance
 
 ## Best Practices
-- [ ] Theme Context
-- [ ] Authentication Context
-- [ ] Feature Flags
-- [ ] Global Config
-- [ ] When NOT to use Context
+- [x] Theme Context
+- [x] Authentication Context
+- [x] Feature Flags
+- [x] Global Config
+- [x] When NOT to use Context
 
 ---
 

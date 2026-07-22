@@ -58,9 +58,9 @@
 
 ## Level 4 — [State Management](Level-4/level-4.md)
 
-- [ ] Local State
-- [ ] Lift State Up
-- [ ] Context API
+- [x] Local State
+- [x] Lift State Up
+- [x] Context API
 - [ ] useReducer
 - [ ] Redux Toolkit
 - [ ] RTK Query
