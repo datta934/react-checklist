@@ -24,3 +24,7 @@
 
 ## 4.2 Context API
 <img width="1536" height="1024" alt="4 2" src="https://github.com/user-attachments/assets/d9ad6c2a-c078-427f-9c74-9ce42186f9c6" />
+
+
+## 4.3 useReducer
+<img width="1536" height="1024" alt="4 3" src="https://github.com/user-attachments/assets/d8b13f5a-1860-4039-8fb3-1b93a73be06c" />
