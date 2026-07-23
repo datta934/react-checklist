@@ -28,3 +28,6 @@
 
 ## 4.3 useReducer
 <img width="1536" height="1024" alt="4 3" src="https://github.com/user-attachments/assets/d8b13f5a-1860-4039-8fb3-1b93a73be06c" />
+
+## 4.3 Redux Toolkit (RTK)
+<img width="1536" height="1024" alt="4 4" src="https://github.com/user-attachments/assets/4f681feb-133e-43ee-8188-9a13c8cf4535" />
