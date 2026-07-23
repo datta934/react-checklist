@@ -61,13 +61,13 @@
 - [x] Local State
 - [x] Lift State Up
 - [x] Context API
-- [ ] useReducer
-- [ ] Redux Toolkit
-- [ ] RTK Query
-- [ ] Zustand
-- [ ] Jotai
-- [ ] MobX Overview
-- [ ] Server State
+- [x] useReducer
+- [x] Redux Toolkit
+- [x] RTK Query
+- [x] Zustand
+- [x] Jotai
+- [x] MobX Overview
+- [x] Server State
 
 ---
 
